@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭I'm currently working on Blockchain dev <br>🧑‍🤝‍🧑 I'm looking to collaborate on webs3 projects<br>🌱I'm currently leraning Javascript <br>💭Ask me about Startup Ecosystem <br>
+<br>🔭I'm currently working on Blockchain dev <br>🧑‍🤝‍🧑 I'm looking to collaborate on webs3 projects<br>🌱I'm currently leraning  Javascript <br>💭Ask me about Startup Ecosystem <br>
 
 
 ## 🌐 Socials:
